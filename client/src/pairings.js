@@ -3,6 +3,7 @@ angular.module('app')
       bindings: {
 
       },
-      templateUrl: '../templates/pairings.html'
+      templateUrl: '../templates/pairings.html',
+      controller: 'PairingsCtrl'
     },
   );
